@@ -235,10 +235,10 @@ caption=f"""**༄ Holla I'm [{KONTOL}](https://t.me/{BOT_USERNAME})**
             [
                 [
                     InlineKeyboardButton(
-                        "ꜱᴏᴜʀᴄᴇ", url="https://github.com/FeriEXP/FeriChatBot"
+                        "ꜱᴏᴜʀᴄᴇ", url="https://xnxx.com"
                     ),
                     InlineKeyboardButton(
-                        "ꜱᴜᴘᴘᴏʀᴛ", url="https://t.me/anossupport"
+                        "ꜱᴜᴘᴘᴏʀᴛ", url="https://t.me/AkiraSupport"
                     )
                 ]
             ]
